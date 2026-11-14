@@ -66,6 +66,28 @@ Look at what happened to Burning Man: the moment a culture becomes cool, the par
 
 How do you survive the flip-flop? How do you keep the magic alive without getting crushed by lawsuits, corporate takeover, or chaotic parasites?
 
+```mermaid
+flowchart TD
+    subgraph THESIS["THE RADIANT THESIS"]
+        T1["Decentralized Caravan"] --> T2["Pure Human Potential & Mutual Aid"]
+        T2 --> T3["Corporate Hardware Gifts (No Control)"]
+    end
+
+    subgraph ANTITHESIS["THE BRUTAL ANTITHESIS"]
+        A1["Sherpa VIP Parasites"] --> A2["Free-Rider & Resource Collapse"]
+        A2 --> A3["Municipal Injunctions & DMV Lawsuit Trap"]
+    end
+
+    subgraph SYNTHESIS["THE SOVEREIGN SYNTHESIS"]
+        S1["No Central Corp -> Public Git Itinerary"]
+        S2["Axiom 1 Hard Gate + Web-of-Trust Vouching"]
+        S3["48-Hour Flash-Mob BLM Mobility"]
+    end
+
+    THESIS -.->|"Attacked By"| ANTITHESIS
+    ANTITHESIS ==>|"Immune Response Solved By"| SYNTHESIS
+```
+
 | Failure Vector | Traditional Organization Failure | The Sovereign Caravan Solution (DISC-018/019) |
 | :--- | :--- | :--- |
 | **Corporate Takeover** | Board of Directors gets bought out by venture capital. | **Zero Central Corporation.** The route is a public Git ledger. Sponsors give gifts directly to individual branches; they cannot buy the protocol. |
