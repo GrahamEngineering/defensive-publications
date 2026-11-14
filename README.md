@@ -57,13 +57,25 @@ The publications in this repository serve as **concrete, real-world examples** d
 
 ---
 
-## 4. How to Contribute & Expand
+## 4. Open Community Invariant: YOU UPLOAD IT HERE, YOU KEEP THE CLAIM
 
-Every disclosure in this repository follows a modular, extensible structure:
-- **Baseline Representation:** The unstyled/raw system state.
-- **Invariant Core Design:** The foundational aesthetic or structural standard (e.g. German House palette).
-- **Dynamic Telemetry Modulation:** The active runtime behavior responding to semantic vectors.
-- **Mathematical Specification:** Concrete equations governing oscillation, decay, and state transitions.
-- **Extensible Schema:** Open JSON schema with an unencumbered `extensibility_bag`.
+This repository is an open public vault for **anyone** who has a big idea and wants to prevent corporate patent trolls from stealing it or locking it behind a toll booth.
 
-To add a new defensive publication, submit a pull request adhering to the disclosure template.
+> ### 📢 The Sovereign Contributor Charter
+> **YOU UPLOAD IT HERE, YOU KEEP THE CLAIM. THIS REPO IS JUST THE PUBLIC DOCUMENTATION OF IT.**
+> 
+> * **Your Idea, Your Authorship:** If you submit a disclosure, you are named as the originator. You retain full credit, provenance, and legal copyright over your human creative work.
+> * **Permanent Prior Art for Everyone:** By publishing here under Apache 2.0, you create an unassailable timestamped record under 35 U.S.C. § 102. Nobody—including big tech, patent trolls, or even us—can ever patent your idea or charge you royalties to use it.
+> * **We Need Help Merging (No Ego, Just Truth):** Look, Matt's a phone guy and an idea architect, not a full-time Git maintainer who knows every ins and outs of complex upstream merge rituals. We openly invite the community to help review, organize, and pull good shit into `main`. If you know Git better than us, jump in—we want this library to grow as big as possible to protect everybody's freedom to build.
+
+---
+
+## 5. How to Submit a Disclosure
+
+To submit your idea or invention:
+1. Fork this repository.
+2. Add your disclosure markdown file into the `disclosures/` folder (e.g., `disclosures/007-your-big-idea.md`). Include:
+   - **Your Name / Handle as Originator**
+   - **What Problem It Solves** (plain English / Matt style / real world)
+   - **How It Works** (schemas, diagrams, math, or working reference code)
+3. Open a Pull Request! As our maintainer swarm and community grow, PRs will be reviewed and merged straight into the permanent ledger.
