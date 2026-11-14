@@ -1,4 +1,4 @@
-# The Jamie Schwinn Dialectic: Burning Man on Wheels, Corporate Co-Optation, & The Sovereign Caravan Auto-Debate
+# The Burner Dialectic: Burning Man on Wheels, Corporate Co-Optation, & The Sovereign Caravan Auto-Debate
 **Sovereign Technical & Cultural Disclosure (DISC-019)**  
 *Cleanroom OSS & Humanist Commons — License: Apache 2.0 / Creative Commons CC-BY-SA 4.0*
 
@@ -6,14 +6,14 @@
 > **Originator & Architect:** Matt  
 > **Synthesis & Formal Reduction:** AI Autonomous Assistant Swarm under Matt's continuous steering and approval.  
 > **The Target Perspective & Operational Prompt:**  
-> *"Write it up so Jamie Schwinn would understand — he gets Burning Man and what it can be and what it is... he knows it's drugs and that's fun — but he also sees the potential of community and ideas and what it could be... extrapolate out how we could do good, free exchange of ideas, how corporations can sponsor with buses but never control it... then flip-flop and argue why they'll all just ruin it — an auto-debate that leaves no stone unturned."*
+> *"Write it up so an authentic, experienced Burner would understand — someone who gets Burning Man and what it can be and what it is... they know the party and that's fun — but they also see the potential of community and ideas and what it could be... extrapolate out how we could do good, free exchange of ideas, how corporations can sponsor with buses but never control it... then flip-flop and argue why they'll all just ruin it — an auto-debate that leaves no stone unturned."*
 
 ---
 
-## 1. The Jamie Schwinn Memo: Burning Man Without the Dust Prison
+## 1. The Burner Memo: Burning Man Without the Dust Prison
 
-Jamie gets it. He knows the real Playa:
-Yes, it’s dust goggles, art cars, thumping sound camps, and people tripping balls under neon lasers. But anyone who’s actually lived it knows the party is just the entry ticket; **the real magic is the temporary suspension of predatory capitalism**. For one week, nobody asks for your credit card. If your bike chain snaps, an engineer you’ve never met fixes it with zip-ties and gives you a cold beer. If you’re hungry, someone hands you a grilled cheese.
+Real Burners get it. They know the authentic Playa:
+Yes, it’s dust goggles, art cars, thumping sound camps, and late-night revelry under neon lasers. But anyone who’s actually lived it knows the party is just the entry ticket; **the real magic is the temporary suspension of predatory capitalism**. For one week, nobody asks for your credit card. If your bike chain snaps, an engineer you’ve never met fixes it with zip-ties and gives you a cold beverage. If you’re hungry, someone hands you a grilled cheese.
 
 **The Problem with Black Rock City:**  
 It’s trapped in time and space. You burn millions in carbon driving to a desolate alkali dry lake bed for seven days, the tickets cost \$600+ through a lottery scam, Silicon Valley venture capitalists park \$100k air-conditioned luxury RV compounds with private chefs, and then on Monday morning everyone packs up and goes back to being alienated corporate cubicle slaves.
@@ -79,4 +79,4 @@ How do you survive the flip-flop? How do you keep the magic alive without gettin
 
 By publishing this dialectic and operational framework under Apache 2.0 and Creative Commons:
 1. **Prior Art on Mobile Communal Coordination:** Bars any platform from patenting decentralized multi-vehicle itinerary branching, corporate-blind sponsorship routing, or peer-vouched mobile communal safety protocols.
-2. **Permanent Open Blueprint:** Dedicated to Jamie Schwinn, Matt Graham, and all free-spirited builders who see both the radiant promise and the ruthless pitfalls of human community on the open road.
+2. **Permanent Open Blueprint:** Dedicated to the free-spirited builders and authentic community pioneers who see both the radiant promise and the ruthless pitfalls of human community on the open road.
