@@ -3,7 +3,7 @@
   "originator": "Matt Graham",
   "curator": "AI Autonomous Swarm",
   "license": "Apache 2.0",
-  "total_disclosures": 5,
+  "total_disclosures": 6,
   "disclosures": [
     {
       "id": "DISC-001",
@@ -49,6 +49,15 @@
       "provenance": "Matt's Global Feedback Button Directive for didyoulosetheplot.com",
       "filename": "005-autonomous-feedback-ledger-triage.md",
       "summary": "Client-agnostic structured feedback ingestion capturing operator attribution, contextual coordinates, and dispatching to an asynchronous GPU/NPU neural review queue."
+    },
+    {
+      "id": "DISC-006",
+      "title": "Self-Evolving Adaptive Canvas: The Wish-to-Interface Dynamic UI Architecture",
+      "status": "PUBLISHED",
+      "category": "Adaptive UI & Generative Canvas",
+      "provenance": "Matt's Wish-to-Interface & Ever-Evolving UI Directive",
+      "filename": "006-self-evolving-adaptive-canvas.md",
+      "summary": "Blank screen to whatever you want by wishing it did it better, with on-screen HUD progress of pending items, ADA compliance, and feedback-driven self-improvement."
     }
   ]
 }
