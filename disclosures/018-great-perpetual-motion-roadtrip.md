@@ -41,25 +41,18 @@ Matt asks the critical question:
 
 Just like the **Sovereign Gmail Daemon (DISC-008)**, the swarm coordinates the road trip's public social feeds while keeping Matt 100% protected:
 
-```
-+-------------------------------------------------------------------------------+
-|                       CARAVAN SOCIAL DISPATCH GATE                            |
-+-------------------------------------------------------------------------------+
-|                                                                               |
-|  [ Agent Swarm ("The Guys") ]                                                 |
-|  - Aggregates road-trip updates, photos, mileage, and next-leg schedules.     |
-|  - Drafts Facebook / Social Posts: "Heading to Denver on Tuesday 11th!"       |
-|                                       │                                       |
-|                                       ▼                                       |
-|  [ Sovereign Physical Human-in-the-Loop Gate ]                                |
-|  - Outbound social broadcast HALTS on Matt's phone/canvas.                     |
-|  - Displays exact text, tagged friends, and proposed GPS checkpoint.          |
-|  - REQUIRES PHYSICAL BUTTON TAP / THUMBPRINT TO PUBLISH OVER WAN.             |
-|                                       │ Yes (Approved)                        |
-|                                       ▼                                       |
-|  [ Public Post Published to Road Trip Ledger & Facebook Feed ]               |
-|                                                                               |
-+-------------------------------------------------------------------------------+
+```mermaid
+flowchart TD
+    Swarm["🤖 Agent Swarm ('The Guys')<br/>• Aggregates road-trip updates & GPS<br/>• Drafts Facebook post: 'Heading to Denver!'"]
+    
+    Gate{"🛑 SOVEREIGN PHYSICAL GATE<br/>• Outbound broadcast HALTS<br/>• Displays exact text & tagged friends<br/>• REQUIRES THUMBPRINT / TOUCH"}
+    
+    Published["✅ Public Post Published<br/>Road Trip Ledger & Facebook Feed"]
+    Quarantine["🛑 Quarantined / Cancelled<br/>Kept as local draft only"]
+
+    Swarm -->|Proposed Dispatch| Gate
+    Gate -->|"Approved (Physical Touch)"| Published
+    Gate -->|"Rejected / Timeout"| Quarantine
 ```
 
 ---
