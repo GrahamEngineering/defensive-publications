@@ -25,17 +25,14 @@ One of the deepest problems in human-computer interaction is cognitive impedance
 
 This architecture acts as the **Psychological Rosetta Stone**. It takes visceral human emotion—what a therapist or clinical psychologist would describe as autonomic arousal, distress signaling, and attention shifts—and translates it cleanly into deterministic graphics shaders and network routing actions.
 
-```
-+-----------------------------------------------------------------------------+
-|                      THE PSYCHO-ACOUSTIC ROSETTA STONE                      |
-+-----------------------------------------------------------------------------+
-|  HUMAN "MONKEY BRAIN"          SEMANTIC ROUTING ENGINE      SUPER-BRAIN MATH|
-|  - Visceral frustration        - Lexical Parsing            - Vector Ingest |
-|  - Stress in voice/prompt      - Pragmatic Intent           - Sigmoid & Sine|
-|  - "Fix the canvas now!"       - Affective Mapping          - Dynamic Pulse |
-|                                                                             |
-|  [ "Canvas is down again!" ] => [ Valence: -0.42, Arousal: 0.88 ] => w(t)=1.85Hz
-+-----------------------------------------------------------------------------+
+```mermaid
+flowchart LR
+    Human["🧠 Human 'Monkey Brain'<br/>• Visceral frustration<br/>• Stress in voice/prompt<br/>• 'Fix the canvas now!'"]
+    SRE["⚡ Semantic Routing Engine<br/>• Lexical Parsing<br/>• Pragmatic Intent<br/>• Affective Mapping"]
+    Math["📐 Super-Brain Math<br/>• Vector Ingest: [-0.42, 0.88]<br/>• Sigmoid & Sine Trajectory<br/>• Dynamic Pulse w(t)=1.85Hz"]
+
+    Human -->|"Conversational Telemetry"| SRE
+    SRE -->|"Affective Vector"| Math
 ```
 
 ### Ground-Truth Ingest Benchmark (Real Operator Voice Prompt):
