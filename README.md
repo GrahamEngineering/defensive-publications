@@ -51,6 +51,7 @@ The publications in this repository serve as **concrete, real-world examples** d
 | :--- | :--- | :--- | :--- |
 | **DISC-001** | [Affective Telemetry Modulation: The German House Dynamic Invariant](disclosures/001-affective-canvas-german-house.md) | Affective Computing / Dynamic UI | **Published / Active Prior Art** |
 | **DISC-006** | [Self-Evolving Adaptive Canvas: The Wish-to-Interface Dynamic UI Architecture](disclosures/006-self-evolving-adaptive-canvas.md) | Adaptive UI & Generative Canvas | **Published / Active Prior Art** |
+| **DISC-007** | [Decentralized Scientific Co-Working & Anti-Hallucination Verification Protocol (FTD / Neuro Research)](disclosures/007-decentralized-research-coworking-protocol.md) | Decentralized Science & Medical Research | **Published / Active Prior Art** |
 | *Future* | *Deterministic Zero-GPU Sub-10ms Semantic Vector Router (DISC-002)* | Intent Routing & Semantic NLP | *Staged* |
 | *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh (DISC-003)* | Network Reliability / Edge Ingress | *Staged* |
 | *Future* | *Dual-Intent Capability Non-Weaponization Gating (DISC-004)* | AI Safety & Adversarial Defense | *Staged* |
