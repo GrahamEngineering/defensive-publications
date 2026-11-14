@@ -60,6 +60,7 @@ The publications in this repository serve as **concrete, real-world examples** d
 | **DISC-013** | [Micro-SRE: Deterministic Classical Semantic Vector Routing on Microcontrollers (ESP32)](disclosures/013-micro-sre-classical-semantic-router-esp32.md) | Embedded Systems & Microcontroller Computing | **Published / Active Prior Art** |
 | **DISC-014** | [Sovereign Debian Autonomous Troubleshooter: Self-Healing Systemd & Kernel Fault Remediation](disclosures/014-debian-autonomous-troubleshooter-daemon.md) | Linux Systems Engineering & Autonomous Remediation | **Published / Active Prior Art** |
 | **DISC-015** | [Sovereign One-Shot Node Onboarding: 'Matty G Core OS' Auto-Inspector & Predictive Remediation](disclosures/015-matty-g-core-os-one-shot-deployer.md) | DevOps & Self-Healing Infrastructure | **Published / Active Prior Art** |
+| **DISC-016** | [The Sovereign Forge: Distributed Event-Driven Self-Improving Core Architecture on K3s](disclosures/016-the-forge-event-driven-k3s-core.md) | Cloud-Native AI & Self-Correcting K3s Infrastructure | **Published / Active Prior Art** |
 | **DISC-010** | [Sovereign Mobile Canvas: Native Android & OS Adaptive Flight Deck Architecture](disclosures/010-sovereign-mobile-canvas-android.md) | Mobile OS & Embedded Local Mesh UI | **Published / Active Prior Art** |
 | *Future* | *Deterministic Zero-GPU Sub-10ms Semantic Vector Router (DISC-002)* | Intent Routing & Semantic NLP | *Staged* |
 | *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh (DISC-003)* | Network Reliability / Edge Ingress | *Staged* |
