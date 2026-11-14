@@ -54,6 +54,10 @@ The publications in this repository serve as **concrete, real-world examples** d
 | **DISC-007** | [Decentralized Scientific Co-Working & Anti-Hallucination Verification Protocol (FTD / Neuro Research)](disclosures/007-decentralized-research-coworking-protocol.md) | Decentralized Science & Medical Research | **Published / Active Prior Art** |
 | **DISC-008** | [Hardware-Gated Autonomous Email Daemon: Physical Biometric & FIDO2 Outbound Control](disclosures/008-hardware-gated-autonomous-gmail-gate.md) | Security & Human-in-the-Loop AI | **Published / Active Prior Art** |
 | **DISC-009** | [Multi-Dimensional Vector Topology: 6-DoF Flyaround & Relativistic Subjective Timeflow Engine](disclosures/009-6dof-semantic-vector-timeflow-engine.md) | Vector Topography & Relativistic Cognitive UI | **Published / Active Prior Art** |
+| **DISC-010** | [Sovereign Mobile Canvas: Native Android & OS Adaptive Flight Deck Architecture](disclosures/010-sovereign-mobile-canvas-android.md) | Mobile OS & Embedded Local Mesh UI | **Published / Active Prior Art** |
+| **DISC-011** | [Sovereign Mobile OS: The Self-Improving Adaptive Operating System Core (Android Replacement)](disclosures/011-sovereign-self-improving-mobile-os.md) | Mobile Operating Systems & Adaptive Kernels | **Published / Active Prior Art** |
+| **DISC-012** | [Sovereign Desktop OS: The Self-Improving Adaptive Operating System for Raspberry Pi & Workstations](disclosures/012-sovereign-desktop-os-raspberry-pi.md) | Desktop Operating Systems & Single-Board Computing | **Published / Active Prior Art** |
+| **DISC-010** | [Sovereign Mobile Canvas: Native Android & OS Adaptive Flight Deck Architecture](disclosures/010-sovereign-mobile-canvas-android.md) | Mobile OS & Embedded Local Mesh UI | **Published / Active Prior Art** |
 | *Future* | *Deterministic Zero-GPU Sub-10ms Semantic Vector Router (DISC-002)* | Intent Routing & Semantic NLP | *Staged* |
 | *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh (DISC-003)* | Network Reliability / Edge Ingress | *Staged* |
 | *Future* | *Dual-Intent Capability Non-Weaponization Gating (DISC-004)* | AI Safety & Adversarial Defense | *Staged* |
