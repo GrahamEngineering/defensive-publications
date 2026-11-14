@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-11-14T06:06:38.038402",
+  "originator": "Matt Graham",
+  "curator": "AI Autonomous Swarm",
+  "license": "Apache 2.0",
+  "total_disclosures": 5,
+  "disclosures": [
+    {
+      "id": "DISC-001",
+      "title": "Affective Telemetry Modulation Architecture: The German House Dynamic Invariant",
+      "status": "PUBLISHED",
+      "category": "Affective Computing & Adaptive UI",
+      "provenance": "Matt's Allendale Folklore & Conversational Stress Telemetry",
+      "filename": "001-affective-canvas-german-house.md",
+      "summary": "Real-time UI state modulation adapting color temperature, pulse frequency (w(t)), and border glow to parsed conversational distress and urgency tokens."
+    },
+    {
+      "id": "DISC-002",
+      "title": "Deterministic Zero-GPU Sub-10ms Semantic Vector Router with Asymptotic Convergence",
+      "status": "EXTRACTED_READY_FOR_PUBLICATION",
+      "category": "Intent Routing & Semantic NLP",
+      "provenance": "Semantic Routing Engine (Matt's human1 != math1 Directive)",
+      "filename": "002-zero-gpu-semantic-vector-router.md",
+      "summary": "Local CPU-only semantic token coordinate scoring using set intersection theorems and adaptive Jaccard manifolds, eliminating cloud LLM latency for intent dispatch."
+    },
+    {
+      "id": "DISC-003",
+      "title": "Multi-Tenant Sovereign Zero-Trust Egress Spoofing & Hairpin NAT Boundary Invariance",
+      "status": "EXTRACTED_READY_FOR_PUBLICATION",
+      "category": "Zero-Trust Networking & Edge Routing",
+      "provenance": "Archnet K3s Edge, Shard 3 & didyoulosetheplot.com Frankfurt WireGuard Mesh",
+      "filename": "003-sovereign-egress-spoofing-hairpin-mesh.md",
+      "summary": "Deterministic multi-tenant edge ingress with zero inbound open WAN ports, WireGuard kernel fwmark routing, and canonical egress header transformation."
+    },
+    {
+      "id": "DISC-004",
+      "title": "Dual-Intent Capability-Centric Non-Weaponization Gating via Semantic Boundary Graphs",
+      "status": "EXTRACTED_READY_FOR_PUBLICATION",
+      "category": "AI Safety & Adversarial Defense",
+      "provenance": "Axiom 1 & Axiom 2 Sovereign Enforcement Matrix",
+      "filename": "004-dual-intent-capability-gating.md",
+      "summary": "Solving Rice's Theorem semantic undecidability in autonomous agents by enforcing mathematical boundary invariants across Model, API, and Network layers."
+    },
+    {
+      "id": "DISC-005",
+      "title": "Autonomous Feedback Ingestion Ledger & Asynchronous 5080 Neural Triage Pipeline",
+      "status": "EXTRACTED_READY_FOR_PUBLICATION",
+      "category": "Feedback Telemetry & Distributed AI Pipelines",
+      "provenance": "Matt's Global Feedback Button Directive for didyoulosetheplot.com",
+      "filename": "005-autonomous-feedback-ledger-triage.md",
+      "summary": "Client-agnostic structured feedback ingestion capturing operator attribution, contextual coordinates, and dispatching to an asynchronous GPU/NPU neural review queue."
+    }
+  ]
+}
