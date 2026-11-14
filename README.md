@@ -15,6 +15,9 @@
 > Look, this repository is a collection of big ideas that Matt came up with and personally approved for public consumption. Matt provides the sparks, the real-world intuition, the architecture, and the unfiltered prompts; the AI turns them into formal math, JSON schemas, and formatted docs to make them undeniable prior art. 
 > 
 > Under US Copyright law and international doctrine, the original concepts, selection, arrangement, editorial direction, and human creative spark originate with Matt. The machines just held the wrenches. This notice serves as the public "front door" establishing genuine human provenance, prior art, and copyright integrity, keeping it loose, goofy, and 100% defended against corporate claim jumpers.
+>
+> **🔒 Privacy Invariant: Anonymize Third Parties by Default**  
+> We respect other people's privacy (Axiom 1 & 2). Real-world friends, family, colleagues, and acquaintances mentioned in prompts or inspirations are **strictly anonymized into functional archetypes** (e.g. *"an experienced community organizer"*, *"a telecom engineer friend"*). No third party is ever named publicly unless they give explicit, written consent to be credited. An automated GitHub Action checks every commit to enforce this gate.
 
 ---
 

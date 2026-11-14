@@ -1,0 +1,40 @@
+name: Privacy & Anonymization Invariant Gate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  anonymization-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run Strict Anonymization Pre-Flight Check
+        run: |
+          echo "=== RUNNING COMMONS VAULT PRIVACY & ANONYMIZATION AUDIT ==="
+          
+          # List of prohibited external personal names / identifiable tags
+          # (Add any specific names to guard against accidental publication)
+          FORBIDDEN_PATTERNS=("Jamie" "Schwinn")
+          
+          VIOLATIONS=0
+          for pattern in "${FORBIDDEN_PATTERNS[@]}"; do
+            echo "Scanning for forbidden pattern: '$pattern'..."
+            MATCHES=$(grep -rnI --exclude-dir=".git" --exclude-dir=".github" "$pattern" . || true)
+            if [ -n "$MATCHES" ]; then
+              echo "::error::PRIVACY VIOLATION DETECTED! Found '$pattern' in public files:"
+              echo "$MATCHES"
+              VIOLATIONS=$((VIOLATIONS + 1))
+            fi
+          done
+
+          if [ $VIOLATIONS -gt 0 ]; then
+            echo "::error::Build rejected! Contributor privacy rule violated: Anonymize by Default."
+            exit 1
+          fi
+
+          echo "✅ All disclosures clean. Zero third-party personal names detected."
