@@ -50,8 +50,10 @@ The publications in this repository serve as **concrete, real-world examples** d
 | ID | Title & Specification | Primary Domain | Status |
 | :--- | :--- | :--- | :--- |
 | **DISC-001** | [Affective Telemetry Modulation: The German House Dynamic Invariant](disclosures/001-affective-canvas-german-house.md) | Affective Computing / Dynamic UI | **Published / Active Prior Art** |
-| *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh* | Network Reliability / Edge Ingress | *Staged* |
-| *Future* | *Cleanroom Provenance Verification for Autonomous Agents* | Compliance / Security | *Staged* |
+| **DISC-006** | [Self-Evolving Adaptive Canvas: The Wish-to-Interface Dynamic UI Architecture](disclosures/006-self-evolving-adaptive-canvas.md) | Adaptive UI & Generative Canvas | **Published / Active Prior Art** |
+| *Future* | *Deterministic Zero-GPU Sub-10ms Semantic Vector Router (DISC-002)* | Intent Routing & Semantic NLP | *Staged* |
+| *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh (DISC-003)* | Network Reliability / Edge Ingress | *Staged* |
+| *Future* | *Dual-Intent Capability Non-Weaponization Gating (DISC-004)* | AI Safety & Adversarial Defense | *Staged* |
 
 ---
 
