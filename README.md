@@ -1,8 +1,9 @@
-# Sovereign Defensive Publications & Prior Art Disclosures
+# The Commons Vault: Sovereign Defensive Publications & Prior Art Disclosures
 *An open repository of defensive prior art disclosures, mathematical architectures, and modular reference implementations engineered with the Semantic Routing Engine.*
 
+**Repository Alias:** `The Commons Vault` (or `Sovereign Prior Art Vault`)  
 **License:** [Apache 2.0](LICENSE) / Cleanroom Permissive Open Source  
-**Upstream Engine:** [Semantic Routing Engine](https://github.com/your-org/semantic-routing-engine)  
+**Upstream Engine:** [Semantic Routing Engine](https://github.com/GrahamEngineering/semantic-routing-engine)  
 
 ---
 
@@ -64,6 +65,7 @@ The publications in this repository serve as **concrete, real-world examples** d
 | **DISC-017** | [Multi-Perspective Persona-Polymorphic POC Code Generator](disclosures/017-persona-polymorphic-poc-code-generator.md) | AI Assisted Engineering & Multi-Paradigm Synthesis | **Published / Active Prior Art** |
 | **DISC-018** | [The Great Perpetual Motion Road Trip: Decentralized Human Caravan & Sovereign Safety Invariant](disclosures/018-great-perpetual-motion-roadtrip.md) | Decentralized Social Protocols & Communal Mutual Aid | **Published / Active Prior Art** |
 | **DISC-019** | [The Jamie Schwinn Dialectic: Burning Man on Wheels, Corporate Co-Optation, & The Sovereign Caravan Auto-Debate](disclosures/019-jamie-schwinn-burning-man-dialectic.md) | Cultural Commons & Decentralized Community Defense | **Published / Active Prior Art** |
+| **DISC-020** | [The Auto-Debater: Automated Dialectical Triangulation & Exhaustive Counter-Argument Synthesis](disclosures/020-auto-debater-dialectical-engine.md) | Cognitive Engines & Automated Adversarial Dialectics | **Published / Active Prior Art** |
 | **DISC-010** | [Sovereign Mobile Canvas: Native Android & OS Adaptive Flight Deck Architecture](disclosures/010-sovereign-mobile-canvas-android.md) | Mobile OS & Embedded Local Mesh UI | **Published / Active Prior Art** |
 | *Future* | *Deterministic Zero-GPU Sub-10ms Semantic Vector Router (DISC-002)* | Intent Routing & Semantic NLP | *Staged* |
 | *Future* | *Autonomous Subnet Boundary Traversal & Failover Mesh (DISC-003)* | Network Reliability / Edge Ingress | *Staged* |
